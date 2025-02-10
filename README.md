@@ -1,0 +1,1 @@
+AI-Control-Web this is the system website, I use the python create a local website, it included the route, api and webpage. SQL insert updata and so on. also i use the openai API the create a AI asistance inside theis website only for the Agriculture system
